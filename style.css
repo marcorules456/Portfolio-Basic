@@ -1,0 +1,109 @@
+/* Home Page */
+body {
+	background-image: url('images/wave-background.jpg');
+}
+
+
+article {
+	
+	padding: 30px;
+	background-color: white;
+}
+
+#container {
+	width: 80%;
+	margin: auto;
+	
+}
+#title-main {
+	
+	
+	background-color: gray;
+	width: 20%;
+	height: 15%;
+	border-bottom: 2px solid black;
+	
+	
+}
+#name {
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+
+}
+#nav1 {
+	background-color: white;
+	float: right;
+	list-style-type: none;
+	text-align: center;
+	padding: 0px;
+	
+	
+	
+}
+.title {
+	list-style-type: none;
+	float: right;
+	margin: 10px;
+border-right: 1px gray solid;
+padding: 10px;
+}
+#about-me {
+	float: left;
+	margin: 20px;
+	padding: 40px;
+	width: 30%;
+	height: 30%;
+	
+}
+#profile-picture {
+	
+	height: 9%;
+	width: 12%;
+	float: left;
+	
+	
+	
+}
+#name-main {
+	
+	border-bottom: 2px gray solid;
+	color: gray;
+	
+}
+#instagram {
+background-color: white;
+	clear: both;
+	float: right;
+	position: relative;
+	bottom: 370px;
+	width: 25%;
+	height: 30%;
+	
+	
+	
+}
+
+.logo {
+	list-style-type: none;
+	height: 17%;
+	width:19%;
+	float: left;
+	margin: 13px;
+	
+	
+	
+}
+li {
+	list-style-type: none;
+}
+#find-me {
+	color: #ffff;
+	border-bottom: 2px solid black;
+}
+#foot {
+	background-color: gray;
+	text-align: center;
+	margin: 20px;
+	clear: both;
+}
